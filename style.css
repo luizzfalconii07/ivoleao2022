@@ -1,3 +1,14 @@
+body {
+    background: orange;
+}
+
+h1 {
+    text-align: center;
+    background: red;
+}
+
 p {
-    text-align: center
+    text-align: center;
+    font-size: 20px;
+    color: blue;
 }
